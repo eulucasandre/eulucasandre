@@ -111,14 +111,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lucasandre&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=eulucasandre&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasandre&theme=merko&layout=compact&custom_title=Techonlogies&langs_count=7" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulucasandre&theme=merko&layout=compact&custom_title=Techonlogies&langs_count=7" 
   />
 
 </p>
