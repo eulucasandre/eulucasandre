@@ -1,12 +1,12 @@
 # 🧑🏾‍💻 Lucas André
 
-**Data Science & Back-End Development student**
+**Data Science**
 
 ### Hi there!
 - I'm Lucas André, I'm graduated in Electrical Engineering and a Postgraduate degree in Computer Engineering. Currently, I’m studying Data Science and Back-End Development, two fields that I’m truly passionate about and eager to grow in. I’m enthusiastic about technology and currently looking for an opportunity to work in this field, contributing with innovative and efficient solutions.
   
 ### 🎯 Objective
-- Work as a **Data Scientist**, **Data Analyst**, or **Back-End Developer**, applying analytical techniques and programming skills to build intelligent and scalable solutions.
+- Work as a **Data Scientist** or **Data Analyst** applying analytical techniques and programming skills to build intelligent and scalable solutions.
 - 📫 How to reach me: https://linkedin.com/in/lucasandremf
   
 <p align="left">
